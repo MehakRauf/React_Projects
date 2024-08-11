@@ -7,7 +7,7 @@ Here are some of my projects with links to the code and demo:
 
 | Project Name | GitHub Link | Demo Link |
 |--------------|-------------|-----------|
-| Calculator    | (https://calculatorbyfatima.netlify.app/) | [Demo](https://demo1.example.com) |
+| Calculator    | [Code](https://calculatorbyfatima.netlify.app/) | [Demo](https://demo1.example.com) |
 | Project 2    | [Code](https://github.com/username/repo2) | [Demo](https://demo2.example.com) |
 | Project 3    | [Code](https://github.com/username/repo3) | [Demo](https://demo3.example.com) |
 
