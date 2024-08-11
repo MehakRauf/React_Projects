@@ -1,9 +1,6 @@
 ## 🚀 My React.js Projects Showcase 🌟
 
 Check out my amazing React.js projects! Explore the code and see the live demos. 🌐💻
-# My Awesome Projects
-
-Here are some of my projects with links to the code and demo:
 
 | Project Name | GitHub Link | Demo Link |
 |--------------|-------------|-----------|
