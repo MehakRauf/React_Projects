@@ -7,8 +7,8 @@ Here are some of my projects with links to the code and demo:
 
 | Project Name | GitHub Link | Demo Link |
 |--------------|-------------|-----------|
-| Calculator    | [Code](https://calculatorbyfatima.netlify.app/) | [Demo](https://demo1.example.com) |
-| Project 2    | [Code](https://github.com/username/repo2) | [Demo](https://demo2.example.com) |
-| Project 3    | [Code](https://github.com/username/repo3) | [Demo](https://demo3.example.com) |
+| Calculator    | [Code]() | [Demo](https://calculatorbyfatima.netlify.app/) |
+| Weather App    | [Code](https://github.com/MehakRauf/WeatherAppReactJS) | [Demo](https://weather-app-reactjsproject.netlify.app/) |
+| Quiz App    | [Code](https://github.com/username/repo3) | [Demo](https://quiz-app-reactjsproject.netlify.app) |
 
 
