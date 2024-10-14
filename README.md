@@ -14,6 +14,7 @@ Check out my amazing React.js projects! Explore the code and see the live demos.
 | Firebase Authentication  | [Code](https://github.com/MehakRauf/FirebaseApplication) | [Demo](https://firebaseauthenticationusingreactjs.netlify.app/) |
 | Edusity(University Website)   | [Code](https://github.com/MehakRauf/Edusity) | [Demo](https://edusityusingreactjs.netlify.app/) |
 | Redux Todo | [Code](https://github.com/MehakRauf/ReduxTodo) | [Demo](https://reduxtodoapplication.netlify.app/) |
+| Currency Converter App | [Code](https://github.com/MehakRauf/CurrencyConverter) | [Demo](https://currencyconverterusingreactjs.netlify.app/) |
 | ToDo App  | [Code](https://github.com/MehakRauf/ToDoApp) | 
 
 
